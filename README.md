@@ -23,7 +23,10 @@ tren bulanan, dan kontribusi region.
 
 ## Dashboard Preview
 ![Dashboard Preview](dashboard/dashboard_preview.png)
+> Klik gambar untuk memperbesar tampilan dashboard.
+
 
 ## Notes
 Project ini dibuat sebagai simulasi business reporting menggunakan Excel.
+
 
