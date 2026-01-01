@@ -26,3 +26,4 @@ tren bulanan, dan kontribusi region.
 
 ## Notes
 Project ini dibuat sebagai simulasi business reporting menggunakan Excel.
+
